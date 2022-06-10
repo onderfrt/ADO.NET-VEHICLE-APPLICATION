@@ -1,0 +1,25 @@
+C:\Users\ibrahim.kaya\source\repos\1_Ado.NET\1_Ado.NET\bin\Debug\1_Ado.NET.exe.config
+C:\Users\ibrahim.kaya\source\repos\1_Ado.NET\1_Ado.NET\bin\Debug\1_Ado.NET.exe
+C:\Users\ibrahim.kaya\source\repos\1_Ado.NET\1_Ado.NET\bin\Debug\1_Ado.NET.pdb
+C:\Users\ibrahim.kaya\source\repos\1_Ado.NET\1_Ado.NET\obj\Debug\1_Ado.NET.csproj.AssemblyReference.cache
+C:\Users\ibrahim.kaya\source\repos\1_Ado.NET\1_Ado.NET\obj\Debug\_1_Ado.NET.Properties.Resources.resources
+C:\Users\ibrahim.kaya\source\repos\1_Ado.NET\1_Ado.NET\obj\Debug\1_Ado.NET.csproj.GenerateResource.cache
+C:\Users\ibrahim.kaya\source\repos\1_Ado.NET\1_Ado.NET\obj\Debug\1_Ado.NET.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim.kaya\source\repos\1_Ado.NET\1_Ado.NET\obj\Debug\1_Ado.NET.exe
+C:\Users\ibrahim.kaya\source\repos\1_Ado.NET\1_Ado.NET\obj\Debug\1_Ado.NET.pdb
+C:\Users\ibrahim.kaya\source\repos\1_Ado.NET\1_Ado.NET\obj\Debug\_1_Ado.NET.FrmInsert.resources
+C:\Users\ibrahim.kaya\source\repos\1_Ado.NET\1_Ado.NET\obj\Debug\_1_Ado.NET.FrmMain.resources
+C:\Users\ibrahim.kaya\source\repos\1_Ado.NET\1_Ado.NET\obj\Debug\_1_Ado.NET.FrmLogin.resources
+C:\Users\onder.ozen\Desktop\ADON.NET\Yeni klasör\1_Ado.NET\1_Ado.NET\bin\Debug\1_Ado.NET.exe.config
+C:\Users\onder.ozen\Desktop\ADON.NET\Yeni klasör\1_Ado.NET\1_Ado.NET\bin\Debug\1_Ado.NET.exe
+C:\Users\onder.ozen\Desktop\ADON.NET\Yeni klasör\1_Ado.NET\1_Ado.NET\bin\Debug\1_Ado.NET.pdb
+C:\Users\onder.ozen\Desktop\ADON.NET\Yeni klasör\1_Ado.NET\1_Ado.NET\obj\Debug\1_Ado.NET.csproj.AssemblyReference.cache
+C:\Users\onder.ozen\Desktop\ADON.NET\Yeni klasör\1_Ado.NET\1_Ado.NET\obj\Debug\1_Ado.NET.csproj.SuggestedBindingRedirects.cache
+C:\Users\onder.ozen\Desktop\ADON.NET\Yeni klasör\1_Ado.NET\1_Ado.NET\obj\Debug\_1_Ado.NET.FrmInsert.resources
+C:\Users\onder.ozen\Desktop\ADON.NET\Yeni klasör\1_Ado.NET\1_Ado.NET\obj\Debug\_1_Ado.NET.FrmLogin.resources
+C:\Users\onder.ozen\Desktop\ADON.NET\Yeni klasör\1_Ado.NET\1_Ado.NET\obj\Debug\_1_Ado.NET.FrmMain.resources
+C:\Users\onder.ozen\Desktop\ADON.NET\Yeni klasör\1_Ado.NET\1_Ado.NET\obj\Debug\_1_Ado.NET.Properties.Resources.resources
+C:\Users\onder.ozen\Desktop\ADON.NET\Yeni klasör\1_Ado.NET\1_Ado.NET\obj\Debug\1_Ado.NET.csproj.GenerateResource.cache
+C:\Users\onder.ozen\Desktop\ADON.NET\Yeni klasör\1_Ado.NET\1_Ado.NET\obj\Debug\1_Ado.NET.csproj.CoreCompileInputs.cache
+C:\Users\onder.ozen\Desktop\ADON.NET\Yeni klasör\1_Ado.NET\1_Ado.NET\obj\Debug\1_Ado.NET.exe
+C:\Users\onder.ozen\Desktop\ADON.NET\Yeni klasör\1_Ado.NET\1_Ado.NET\obj\Debug\1_Ado.NET.pdb
